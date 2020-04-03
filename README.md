@@ -1,4 +1,4 @@
-# tb
+# 学习使我快乐
 
 > An electron-vue project
 
@@ -12,10 +12,12 @@ npm install
 npm run dev
 
 # build electron application for production
-npm run build
+bbuild.bat
 
 
 ```
+
+
 
 ---
 
